@@ -303,12 +303,14 @@ section .title::after{
 }
 .skills .skills-content .right .bars{
     margin-bottom: 15px;
+    color: #50514F
 }
 .skills .skills-content .right .info{
     display: flex;
     margin-bottom: 5px;
     align-items: center;
     justify-content: space-between;
+    color: #50514F;
 }
 .skills .skills-content .right span{
     font-weight: 500;
@@ -332,7 +334,7 @@ section .title::after{
 /* teams section styling */
 .teams .title::after{
     color: #B0BC98;
-    content: "cool stuff";
+    content: "what i did";
 }
 .teams .carousel .card{
     background: #50514F;
