@@ -35,9 +35,9 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Renegade"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["Amanda Quach!"],
+        typeSpeed: 110,
+        backSpeed: 40,
         loop: true
     });
 
