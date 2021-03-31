@@ -43,8 +43,8 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing-2", {
         strings: ["Computer Science"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        typeSpeed: 110,
+        backSpeed: 40,
         loop: true
     });
 
