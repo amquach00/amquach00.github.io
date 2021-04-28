@@ -1,5 +1,5 @@
 Working in Progress
 
 Tasks
-- [ ] Update Projects
+- [ ] Update projects
 - [ ] Change visual for skills area
